@@ -1,0 +1,33 @@
+{
+  "name": "highlightjs-qml",
+  "version": "5.13.0",
+  "author": "John Foster",
+  "description": "QML is a multi-paradigm language for creating highly dynamic applications with Qt.",
+  "main": "qml.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "files": [
+    "qml.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jf990/highlightjs-qml.git"
+  },
+  "keywords": [
+    "qt",
+    "qml",
+    "highlight.js",
+    "highlightjs",
+    "syntax"
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jf990/highlightjs-qml/issues"
+  },
+  "homepage": "https://github.com/jf990/highlightjs-qml#readme",
+  "devDependencies": {
+    "highlight.js": "^9.15.10",
+    "jasmine": "^3.4.0"
+  }
+}
